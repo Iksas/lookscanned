@@ -5,8 +5,8 @@
       <v-slider
         hide-details
         density="compact"
-        max="45"
-        min="-45"
+        max="5"
+        min="-5"
         thumb-label
         v-model="rotate_computed"
       />
