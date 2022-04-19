@@ -2,7 +2,7 @@
 
 Look Scanned is a pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore - everything you need to do is just a few clicks. Inspired by [baicunko/scanyourpdf](https://github.com/baicunko/scanyourpdf).
 
-This fork removes web fonts that were loaded from third party servers. This allows the site to be used without "talking" to the Internet at all.
+This fork removes web fonts that were loaded from third party servers. This prevents the user's IP from being shared with other servers, making the site GDPR compliant.
 
 ## Develop
 
